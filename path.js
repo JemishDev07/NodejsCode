@@ -13,4 +13,3 @@ const basename = path.basename(Newpath);
 const pathsep = path.sep;
 
 console.log({ Parse, resolve, extname, pathsep, basename });
-console.log("hello world jemish");
